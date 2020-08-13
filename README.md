@@ -1,2 +1,3 @@
-# excalidraw-layout
-A repo where you can find usable drag and drop layouts and files.
+# Excalidraw Layouts
+A collection of templates/layouts which you can drag and drop using [Excalidraw](https://excalidraw.com/).
+
