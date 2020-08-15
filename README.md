@@ -11,5 +11,5 @@ A collection of templates/layouts which you can drag and drop using [Excalidraw]
 
 | Login Screen | Onboarding Screen | Registration Screen |
 | :---: | :---: | :---: |
-| <img src="login-screen.jpg" height="600"> | <img src="reg-screen.jpg" height="600"> | <img src="onboarding-screen.jpg" height="600"> |
+| <img src="login-screen.jpg" height="500"> | <img src="reg-screen.jpg" height="500"> | <img src="onboarding-screen.jpg" height="500"> |
 
