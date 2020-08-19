@@ -11,5 +11,9 @@ A collection of templates which you can drag and drop using [Excalidraw](https:/
 
 | Login Screen | Onboarding Screen | Registration Screen |
 | :---: | :---: | :---: |
-| <img src="login-screen.jpg" height="500"> | <img src="reg-screen.jpg" height="500"> | <img src="onboarding-screen.jpg" height="500"> |
+| <img src="images/login-screen.jpg" height="500"> | <img src="images/reg-screen.jpg" height="500"> | <img src="images/onboarding-screen.jpg" height="500"> |
+
+## Pricing UI Kit
+
+<img src="images/pricing-component.jpg" height="500">
 
