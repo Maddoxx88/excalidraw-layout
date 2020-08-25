@@ -17,3 +17,7 @@ A collection of templates/layouts which you can drag and drop into [Excalidraw](
 
 <img src="images/pricing-component.jpg" height="500">
 
+## [Web UI Kit](web-kit.excalidrawlib)
+
+<img src="images/web-kit.png" height="500">
+
