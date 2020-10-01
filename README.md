@@ -19,5 +19,5 @@ A collection of templates/layouts which you can drag and drop into [Excalidraw](
 
 ## [Web UI Kit](web-kit.excalidrawlib)
 
-<img src="images/web-kit.png" height="500">
+<img src="images/web-kit.png">
 
